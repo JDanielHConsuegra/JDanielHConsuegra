@@ -13,10 +13,32 @@
   <img src="https://user-images.githubusercontent.com/106036347/235334794-830c83c0-80e1-4b0d-99c2-73563ee3a18d.gif" alt="developer animation" height="200"/>
 </p>
 
-<h1 align="center">🧑‍💻 About Me</h1>
+<h1 align="center">⚡️ Frontend-Focused Fullstack Developer</h1>
+
 <p align="center">
-I'm a fullstack developer with a frontend heart. I specialize in crafting performant user interfaces and seamless experiences using cutting-edge tools like <strong>Next.js</strong>, <strong>React</strong>, and <strong>Vite.js</strong>. My background brings military-grade discipline to clean code and scalable design.
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200" alt="Coding Animation"/>
 </p>
+
+<p align="center">
+  I'm a <strong>fullstack developer</strong> with a frontend soul — passionate about crafting responsive, scalable, and visually dynamic interfaces.<br/>
+  I specialize in <strong>Next.js</strong>, <strong>React</strong>, and <strong>Vite.js</strong>, blending performance with pixel-perfect design.<br/>
+  My military background fuels my discipline for clean code, structured workflows, and deployment precision.<br/>
+  Whether it's debugging a tricky UI or refining a deployment pipeline, I thrive on turning complexity into clarity.
+</p>
+
+<p align="center">
+  <em>“Code is my canvas, UI is my art.”</em>
+</p>
+
+---
+
+### 👨‍💻 Código en Acción
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="600"/>
+  <br/>
+  <em>Porque el código también puede ser arte en movimiento.</em>
+</div>
 
 ---
 
