@@ -1,11 +1,11 @@
-<!-- ✨ Versión mejorada del Typing Intro Animation -->
+<!-- ✨ Enhanced Version of Typing Intro Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=F7D745&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hola,+soy+Juan.;%E2%9A%A1+Frontend-focused+Fullstack+Developer.;%F0%9F%9A%80+React,+Next.js,+Tailwind,+Vite.;%F0%9F%A7%A0+Pixel-perfect+UI+con+disciplina+militar.;%F0%9F%8E%A8+Clean+Code+%7C+Escalabilidad+%7C+Performance" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=F7D745&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi,+I'm+Juan.;%E2%9A%A1+Frontend-focused+Fullstack+Developer.;%F0%9F%9A%80+React,+Next.js,+Tailwind,+Vite.;%F0%9F%A7%A0+Pixel-perfect+UI+with+military+discipline.;%F0%9F%8E%A8+Clean+Code+%7C+Scalability+%7C+Performance" />
 </p>
 
 <!-- 🔁 Second Typing Animation Block -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=800&color=11E6C1&center=true&vCenter=true&width=600&lines=%E2%9A%99+Experiencia+en+Next.js,+React,+TailwindCSS.;%F0%9F%94%A1+UIs+din%C3%A1micas+y+escalables.;%F0%9F%93%88+Vite,+NestJS,+PostgreSQL+listos+para+producci%C3%B3n.;%F0%9F%93%9A+Deployment+con+Railway+y+Vercel.;%F0%9F%93%9D+Documentaci%C3%B3n+elegante+con+Swagger." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=800&color=11E6C1&center=true&vCenter=true&width=600&lines=%E2%9A%99+Experienced+in+Next.js,+React,+TailwindCSS.;%F0%9F%94%A1+Scalable+and+dynamic+UIs.;%F0%9F%93%88+Vite,+NestJS,+PostgreSQL+ready+for+production.;%F0%9F%93%9A+Deployments+with+Railway+and+Vercel.;%F0%9F%93%9D+Elegant+API+documentation+with+Swagger." />
 </p>
 
 <!-- Profile badge -->
@@ -32,12 +32,12 @@
 
 ---
 
-### 👨‍💻 Código en Acción
+### 👨‍💻 Code in Motion
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="600"/>
   <br/>
-  <em>Porque el código también puede ser arte en movimiento.</em>
+  <em>Because code can be living art too.</em>
 </div>
 
 ---
